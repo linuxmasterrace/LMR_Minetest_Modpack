@@ -28,3 +28,24 @@
 [submodule "nether"]
 	path = nether
 	url = https://github.com/PilzAdam/nether
+[submodule "farming_plus"]
+	path = farming_plus
+	url = https://github.com/PilzAdam/farming_plus
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor/
+[submodule "ufos"]
+	path = ufos
+	url = https://github.com/Zeg9/minetest-ufos/
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "bees"]
+	path = bees
+	url = https://github.com/bas080/bees
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/stujones11/wield3d
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/Sokomine/travelnet
