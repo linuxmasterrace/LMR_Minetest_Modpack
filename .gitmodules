@@ -49,3 +49,15 @@
 [submodule "travelnet"]
 	path = travelnet
 	url = https://github.com/Sokomine/travelnet
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-technic/unified_inventory
+[submodule "3darmor"]
+	path = 3darmor
+	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "castle"]
+	path = castle
+	url = https://github.com/minetest-mods/castle
+[submodule "worldedit"]
+	path = worldedit
+	url = https://github.com/Uberi/Minetest-WorldEdit
