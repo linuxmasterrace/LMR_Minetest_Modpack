@@ -16,3 +16,15 @@
 [submodule "moreores"]
 	path = moreores
 	url = https://github.com/minetest-mods/moreores
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://github.com/minetest-mods/pipeworks
+[submodule "technic"]
+	path = technic
+	url = https://github.com/minetest-mods/technic
+[submodule "nether"]
+	path = nether
+	url = https://github.com/PilzAdam/nether
