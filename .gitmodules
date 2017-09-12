@@ -1,0 +1,9 @@
+[submodule "mushroomtools"]
+	path = mushroomtools
+	url = https://github.com/whitephoenix0/minetest-mushroomtools
+[submodule "physics"]
+	path = physics
+	url = https://github.com/whitephoenix0/minetest-physics
+[submodule "rms"]
+	path = rms
+	url = https://github.com/whitephoenix0/minetest-rms
