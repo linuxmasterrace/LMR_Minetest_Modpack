@@ -7,3 +7,12 @@
 [submodule "rms"]
 	path = rms
 	url = https://github.com/whitephoenix0/minetest-rms
+[submodule "intllib"]
+	path = intllib
+	url = https://github.com/minetest-mods/intllib
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks/
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores
